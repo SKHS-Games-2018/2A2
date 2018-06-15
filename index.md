@@ -10,7 +10,7 @@
 * [Nathan D]()
 * [Anthony](https://github.com/Buddy312)
 * [Liam]()
-* [Adam]()
+* [Adam](https://github.com/UberFace)
 * [Dakota]()
 * [Angel](https://github.com/angel-moyses)
 * [Riley M]()
