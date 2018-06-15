@@ -12,7 +12,7 @@
 * [Liam]()
 * [Adam]()
 * [Dakota]()
-* [Angel]()
+* [Angel](https://github.com/angel-moyses)
 * [Riley M]()
 * [Isaiah](https://github.com/IsaiahMontez)
 * [Tyler](https://github.com/TylerRBoi)
