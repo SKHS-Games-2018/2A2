@@ -2,7 +2,7 @@
 
 * [Riley B](https://github.com/RileyBennett/)
 * [Brian]()
-* [Nathan C-B]()
+* [Nathan C-B](https://github.com/NathanCadieuBaker)
 * [Jack]()
 * [Alyssa]()
 * [Stephen]()
