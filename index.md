@@ -1,7 +1,7 @@
 # 2A2
 
 * [Riley B](https://github.com/RileyBennett/)
-* [Brian]()
+* [Brian](https://github.com/BusinessDude) <!-- added by DLU, 19 June 2018 -->
 * [Nathan C-B](https://github.com/NathanCadieuBaker)
 * [Jack]()
 * [Alyssa]()
